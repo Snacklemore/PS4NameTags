@@ -1,7 +1,7 @@
 # PS4NameTags
 NameTags  for DayZ, as they are used on PlayStation4
--Configurable Centerpoint, or  Anchor, to  meaure player distance from.
--Configurable distance to stop nametag from showing up.
+- Configurable Centerpoint, or  Anchor, to  meaure player distance from.
+- Configurable distance to stop nametag from showing up.
 
 #Setting Up
 For the NameTags to work properly you need to assign a few variables inside you init.c on your server.
